@@ -2,3 +2,7 @@
 *.csproj.user
 **/obj/Debug/
 **/obj/Release/
+**/src/packages/
+**/App_Data/NuGetBackup/
+
+!**/packages/repositories.config
