@@ -285,7 +285,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Compositions\TypicalComposition.cs" />
+    <Compile Include="Interfaces\IWidget.cs" />
+    <Compile Include="Pages\TypicalPage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Types\RichTextWidget.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
