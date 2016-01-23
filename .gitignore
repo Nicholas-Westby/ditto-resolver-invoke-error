@@ -4,5 +4,8 @@
 **/obj/Release/
 **/src/packages/
 **/App_Data/NuGetBackup/
+**/umbraco_client/
+**/umbraco/
+**/bin/
 
 !**/packages/repositories.config
