@@ -15,5 +15,6 @@
 **/App_Data/cache/
 **/App_Data/TEMP/ExamineIndexes/
 **/App_Data/umbraco.config
+**/App_Data/TEMP/DistCache/
 
 !**/packages/repositories.config
