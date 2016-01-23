@@ -7,5 +7,11 @@
 **/umbraco_client/
 **/umbraco/
 **/bin/
+**/App_Data/TEMP/PluginCache/
+**/App_Data/TEMP/Install/
+**/App_Data/TEMP/ClientDependency/
+**/App_Data/TEMP/Logs/
+**/App_Data/Logs/
+**/App_Data/cache/
 
 !**/packages/repositories.config
